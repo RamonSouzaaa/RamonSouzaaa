@@ -13,8 +13,8 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonSouzaaa&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonSouzaaa&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamonSouzaaa&show_icons=true&theme=dark&custom_title=Total De Commits"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonSouzaaa&theme=dark&custom_title=Hard Skills"/>
 </div>
 
 ##
