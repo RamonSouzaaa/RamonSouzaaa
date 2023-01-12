@@ -15,11 +15,11 @@
 <div>
   <h3>📈 Minhas estátisticas do Git</h3>
   <a href="">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RamonSouzaaa&show_icons=true&theme=dark"/>
+    <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RamonSouzaaa&show_icons=true&theme=dark"/>
   </a>
   <h3>🏆 Minhas habilidades</h3>
   <a href="https://github.com/RamonSouzaaa/github-readme-stats">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamonSouzaaa&layout=compact&theme=dark"/>
+    <img height="230em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RamonSouzaaa&layout=compact&theme=dark"/>
   </a>
 </div>
 
