@@ -4,7 +4,7 @@
 </h3>
 <div>
   <ul>
-    <li>💼 Desenvolvedor de Software Pleno</li>
+    <li>💼 Desenvolvedor de Software</li>
     <li>💻 Autodidata</li>
     <li>🌎 <a href="https://ramonsouza.com.br/" target="__blank">ramonsouza.com.br</a></li>
   </ul>
